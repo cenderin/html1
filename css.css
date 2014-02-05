@@ -1,0 +1,21 @@
+.logo{
+	float: left;
+	background-color: steelblue;
+	color: black;
+	width: 350px;
+	height: 60px;
+	font-size: 50px;
+	text-align: center;
+
+}
+
+nav{
+	float: right;
+	font-style: 30px;
+
+}
+
+section{
+	text-align: center;
+	padding-top: 60px;
+}
